@@ -24,4 +24,11 @@
     background-color: #111;
     color: white;
     position: fixed;
+    top: 0;
+    right: 0;
+
+}
+
+.nav-avatar {
+    cursor: pointer;
 }
