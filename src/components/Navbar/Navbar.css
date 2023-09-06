@@ -31,4 +31,7 @@
 
 .nav-avatar {
     cursor: pointer;
+    color: red;
+    background-image: url();
+    background-repeat: no-repeat;
 }
