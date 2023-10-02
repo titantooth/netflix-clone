@@ -17,6 +17,10 @@ const Banner = () => {
                 <button className='banner-button'>My List</button>
 
             </div>
+            <h1 className='banner-description'>this is test description</h1>
+        </div>
+        <div className='banner-fadebottom'>
+
         </div>
     </header>
   )
